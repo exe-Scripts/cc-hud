@@ -1,5 +1,5 @@
-![CC HUD - GitHub Banner](https://github.com/CandrexDev/cc-hud/assets/62235410/02989744-3bbd-4cfe-ae4a-fd3ce70193dc)
 
+![cc-hud](https://github.com/user-attachments/assets/d0d789a2-1480-47c6-9309-a600d8dc2b6a)
 
 ## Features
 * 9 Unique Preset Designs
